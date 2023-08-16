@@ -14,12 +14,9 @@ https://www.academia.edu/36158240/Qu%E1%BA%A3n_l%C3%BD_nh%C3%A0_h%C3%A0ng
 - Quản lí đơn hàng:(3)
 
   # Database Design:
-- tblNhanVien:
-- tblHangHoa:
-- tblHoaDon:
-- tblNhapHang:
-- tblMenu:
-
-
-
+- tblNhanVien: MaNV, TenNV, GioiTinh, SDT, NgaySinh
+- tblHangHoa:MaHH, TenHH, PhanLoai, DonGia
+- tblHoaDon:MaHD, TenKH, Ngay, Menu, TongTien
+- tblNhapHang:MaHH, TenHH, PhanLoai, NgayNhap, GiaNhap
+- tblMenu:MaMenu, TenMon, GiaTien
 
