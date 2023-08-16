@@ -18,3 +18,5 @@ https://www.academia.edu/36158240/Qu%E1%BA%A3n_l%C3%BD_nh%C3%A0_h%C3%A0ng
 - tblHangHoa:
 - tblHoaDon:
 - tblNhapHang:
+- tblMenu:
+
