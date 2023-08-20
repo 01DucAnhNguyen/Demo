@@ -25,19 +25,20 @@ https://www.academia.edu/36158240/Qu%E1%BA%A3n_l%C3%BD_nh%C3%A0_h%C3%A0ng
 
 # Content Restaurant Manager:
 - Đăng nhập phân quyền: Quản lí, nhân viên (2)
-- Quản lý nhân viên: Tính thời gian làm việc, Nhân viên lễ tân, Nhân viên phục vụ, Đầu bếp.(1)
+- Quản lý nhân viên: Tính thời gian làm việc, lương cho nhân viên, Nhân viên lễ tân, Nhân viên phục vụ, Đầu bếp.(1)
 - Quản lý hàng hoá: Giá nhập, ngày nhập, giá bán(2)
 - Menu: Hiển thị hình ảnh món ăn, giá món(2, 3)
 - Quản lý bàn: Tổng số lượng bàn của nhà hàng, tình trạng còn bàn, hết bàn, thông tin từng bàn đang phục vụ(4)
 - Báo cáo doanh thu nhà hàng: Tiền nhập hàng, tiền lương cho nhân viên, tiền thu nhập của nhà hàng, các chi phí khác, doanh thu của nhà hàng tháng, năm(1, 4)
-- Quản lí đơn hàng: Thông tin chi  tiết hóa đơn, tổng tiền(3)
+- Quản lí đơn hàng: Thông tin chi  tiết hóa đơn, tổng tiền, hình thức thanh toán(3)
 
   # Database Design:
-- tblNhanVien: MaNV, TenNV, GioiTinh, SDT, NgaySinh
-- tblHangHoa:MaHH, TenHH, PhanLoai, DonGia
-- tblHoaDon:MaHD, TenKH, Ngay, Menu, TongTien
-- tblNhapHang:MaHH, TenHH, PhanLoai, NgayNhap, GiaNhap
-- tblMenu:MaMenu, TenMon, GiaTien
+- tblNhanVien: mã nhân viên, họ tên, sđt, địa chỉ, tk, mk, ảnh.
+- tblHangHoa: mã hàng, tên hàng, giá bán, số lượng
+- tblHoaDon: mã hóa đơn, mã nhân viên, ngày lên đơn, tổng tiền, phương thức thanh toán
+- tblChiTietHoaDon: mã hóa đơn, mã hàng, số lượng
+- tblNhapHang: mã hàng nhập, số lượng nhập, giá nhập, ngày nhập
+- tblMenu: mã menu, mã hàng
 
 
 
