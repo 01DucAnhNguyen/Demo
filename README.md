@@ -33,12 +33,11 @@ https://www.academia.edu/36158240/Qu%E1%BA%A3n_l%C3%BD_nh%C3%A0_h%C3%A0ng
 - Quản lí đơn hàng: Thông tin chi  tiết hóa đơn, tổng tiền(3)
 
   # Database Design:
-- tblNhanVien:
-- tblHangHoa:
-- tblHoaDon:
-- tblChiTietHoaDon
-- tblNhapHang:
-- tblMenu:
+- tblNhanVien: MaNV, TenNV, GioiTinh, SDT, NgaySinh
+- tblHangHoa:MaHH, TenHH, PhanLoai, DonGia
+- tblHoaDon:MaHD, TenKH, Ngay, Menu, TongTien
+- tblNhapHang:MaHH, TenHH, PhanLoai, NgayNhap, GiaNhap
+- tblMenu:MaMenu, TenMon, GiaTien
 
 
 
