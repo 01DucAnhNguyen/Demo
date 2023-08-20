@@ -15,12 +15,12 @@ https://www.academia.edu/36158240/Qu%E1%BA%A3n_l%C3%BD_nh%C3%A0_h%C3%A0ng
 
 
 ### Hệ thống quản lí nhà hàng được sử dụng để quản lý và điều hành các hoạt động hàng ngày của một nhà hàng. Nó cung cấp một loạt các chức năng và tính năng giúp tối ưu hóa quản lý nhà hàng, cải thiện trải nghiệm khách hàng và tăng hiệu suất kinh doanh. Dưới đây là một số mục đích chính của hệ thống quản lí nhà hàng:
-- Quản lý đặt bàn và đơn hàng: Hệ thống quản lí nhà hàng cho phép quản lý đặt bàn trực tuyến và theo dõi các đơn hàng của khách hàng. Nhân viên có thể dễ dàng đặt món cho khách hàng và theo dõi tiến trình thực hiện đơn hàng.
-- Quản lý thực đơn: Hỗ trợ tạo, chỉnh sửa và quản lý thực đơn. Cập nhật thông tin về món ăn, giá cả, khả dụng và các chi tiết liên quan khác.
+- Quản lý đặt bàn: Hệ thống quản lí nhà hàng cho phép quản lý số lượng bàn còn trống, đang phục vụ. Nhân viên có thể dễ dàng đặt món cho khách hàng và đặt bàn cho khách hàng và theo dõi.
+- Quản lý thực đơn( menu ): Hỗ trợ tạo, chỉnh sửa và quản lý thực đơn. Cập nhật thông tin về món ăn, giá cả, khả dụng và các chi tiết liên quan khác.
 - Quản lý nhân viên: Lương, quyền hạn và hiệu suất của nhân viên. Giúp quản lý nhân sự hiệu quả và đảm bảo hoạt động trơn tru.
 - Quản lý kho hàng: Theo dõi tồn kho, đặt hàng mới, kiểm tra nguồn cung cấp và quản lý hàng tồn kho.
-- Thanh toán và kế toán: Ghi nhận giao dịch bán hàng, xử lý thanh toán, quản lý hóa đơn và lập báo cáo tài chính. Hỗ trợ kế toán và thuế liên quan đến hoạt động kinh doanh.
-- Quản lý khách hàng: Theo dõi thông tin và lịch sử của khách hàng, cung cấp chương trình khuyến mãi và thẻ thành viên, cải thiện trải nghiệm khách hàng.
+- Thanh toán : Ghi nhận giao dịch bán hàng, xử lý thanh toán, quản lý hóa đơn và lập báo cáo tài chính.
+- Quản lý hóa đơn: Ghi nhận lại các hóa đơn, chi tiết thực đơn có trong hóa đơn, tổng tiền, phương thức thanh toán, ...
 - Phân tích dữ liệu: Tạo báo cáo về doanh thu, lợi nhuận và phân tích dữ liệu để đưa ra quyết định kinh doanh thông minh.
 
 # Content Restaurant Manager:
