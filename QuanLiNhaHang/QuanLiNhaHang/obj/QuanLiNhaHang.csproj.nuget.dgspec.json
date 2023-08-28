@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xuanc\\Documents\\Net\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj": {}
+    "C:\\Users\\xuanc\\Documents\\Ki5\\PTPM\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xuanc\\Documents\\Net\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj": {
+    "C:\\Users\\xuanc\\Documents\\Ki5\\PTPM\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xuanc\\Documents\\Net\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj",
+        "projectUniqueName": "C:\\Users\\xuanc\\Documents\\Ki5\\PTPM\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj",
         "projectName": "QuanLiNhaHang",
-        "projectPath": "C:\\Users\\xuanc\\Documents\\Net\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj",
+        "projectPath": "C:\\Users\\xuanc\\Documents\\Ki5\\PTPM\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj",
         "packagesPath": "C:\\Users\\xuanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xuanc\\Documents\\Net\\QuanLiNhaHang\\QuanLiNhaHang\\obj\\",
+        "outputPath": "C:\\Users\\xuanc\\Documents\\Ki5\\PTPM\\QuanLiNhaHang\\QuanLiNhaHang\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xuanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
