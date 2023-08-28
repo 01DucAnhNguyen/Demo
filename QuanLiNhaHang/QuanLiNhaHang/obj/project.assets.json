@@ -8,19 +8,32 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\xuanc\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "D:\\Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\xuanc\\Documents\\Ki5\\PTPM\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj",
       "projectName": "QuanLiNhaHang",
       "projectPath": "C:\\Users\\xuanc\\Documents\\Ki5\\PTPM\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj",
       "packagesPath": "C:\\Users\\xuanc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\xuanc\\Documents\\Ki5\\PTPM\\QuanLiNhaHang\\QuanLiNhaHang\\obj\\",
+=======
+      "projectUniqueName": "D:\\Github\\Demo\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj",
+      "projectName": "QuanLiNhaHang",
+      "projectPath": "D:\\Github\\Demo\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\Demo\\QuanLiNhaHang\\QuanLiNhaHang\\obj\\",
+>>>>>>> 022f981619560f260cf79ae36cf9106b94a83cd0
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\xuanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +41,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +78,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

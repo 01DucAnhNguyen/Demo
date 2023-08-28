@@ -7,4 +7,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Menu\" />
+    <Folder Include="BaoCaoDoanhThu\" />
+    <Folder Include="QuanLyBan\" />
+    <Folder Include="QuanLyDonHang\" />
+    <Folder Include="QuanLyNhanVien\" />
+  </ItemGroup>
+
 </Project>
