@@ -1,5 +1,5 @@
 ﻿QuanLiNhaHang
-1.0.0.0
+
 
 winexe
 C#
@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\Github\Demo\QuanLiNhaHang\QuanLiNhaHang\App.xaml
-2275488801
+11407045341
 
-62027268918
+3-1233169557
 1941709816142
-Main.xaml;MainWindow.xaml;
+MainWindow.xaml;
 
-True
+False
 
