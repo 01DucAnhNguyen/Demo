@@ -455,5 +455,45 @@
         <Label Content="Ngày làm chính thức" HorizontalAlignment="Left" Margin="500,120,0,0" VerticalAlignment="Top" Height="26"/>
 
         <DatePicker x:Name="txtNgayLamChinhThuc" HorizontalAlignment="Left" Margin="641,122,0,0" VerticalAlignment="Top" Width="140" Height="22"/>
+        <GroupBox Header="Nhập thông tin nhân viên" Margin="10,50,10,215" BorderBrush="#E285DE" />
+        <Image x:Name="pictureBoxSource" HorizontalAlignment="Left" Height="138" Margin="816,92,0,0" VerticalAlignment="Top" Width="108"/>
+        <Image x:Name="pictureBox2Des" HorizontalAlignment="Left" Height="138"  Margin="816,92,0,0" VerticalAlignment="Top" Width="108"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="138" Width="108" Margin="816,92,0,0" VerticalAlignment="Top" />
+        <Button
+            x:Name="btOpen"
+            Command="{Binding LoginCommand}"                            
+            Content="Tải ảnh"                            
+            FontSize="12"
+            FontFamily="Montserrat"
+            Cursor="Hand"
+            BorderThickness="0"
+            Foreground="White"
+            VerticalAlignment="Bottom" Margin="817,0,27,254"
+            Click="btOpenFile" Height="36">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="#2962ff"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border Height="30"
+                                    CornerRadius="15"
+                                    Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                        HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#836EFB"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+
+
+        </Button>
     </Grid>
 </Window>
