@@ -12,7 +12,6 @@
     <Folder Include="BaoCaoDoanhThu\" />
     <Folder Include="QuanLyBan\" />
     <Folder Include="QuanLyDonHang\" />
-    <Folder Include="QuanLyNhanVien\" />
   </ItemGroup>
 
 </Project>

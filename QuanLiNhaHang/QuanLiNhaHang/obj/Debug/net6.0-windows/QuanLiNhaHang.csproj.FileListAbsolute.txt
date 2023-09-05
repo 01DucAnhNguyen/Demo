@@ -19,3 +19,26 @@ D:\Github\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\refint\QuanL
 D:\Github\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.pdb
 D:\Github\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.genruntimeconfig.cache
 D:\Github\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\ref\QuanLiNhaHang.dll
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\net6.0-windows\QuanLiNhaHang.exe
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\net6.0-windows\QuanLiNhaHang.deps.json
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\net6.0-windows\QuanLiNhaHang.runtimeconfig.json
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\net6.0-windows\QuanLiNhaHang.dll
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\bin\Debug\net6.0-windows\QuanLiNhaHang.pdb
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\Main.g.cs
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang_MarkupCompile.cache
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang_MarkupCompile.lref
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\Main.baml
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.g.resources
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.AssemblyInfoInputs.cache
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.AssemblyInfo.cs
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.dll
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\refint\QuanLiNhaHang.dll
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.pdb
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.genruntimeconfig.cache
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\ref\QuanLiNhaHang.dll

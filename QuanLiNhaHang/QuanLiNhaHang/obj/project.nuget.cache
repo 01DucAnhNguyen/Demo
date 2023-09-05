@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QR8ORt/hYO2Wd/Ub8NCIQuk65rPXHexPVSbCXgqL9f5d8pLHrBPgivhKRfASJmqFklrGpXi0WzBKRNA67e184Q==",
+  "dgSpecHash": "5XOwDaF6k8ocgJEuRvcShgQRII8uhu0AwS+3o4Jh5PXBN++18UwHsXuTSgntderd8xS13yZTTrBwubDHW5y4zg==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Demo\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Quản lí\\Demo\\QuanLiNhaHang\\QuanLiNhaHang\\QuanLiNhaHang.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\Github\\Demo\\QuanLiNhaHang\\QuanLiNhaHang\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

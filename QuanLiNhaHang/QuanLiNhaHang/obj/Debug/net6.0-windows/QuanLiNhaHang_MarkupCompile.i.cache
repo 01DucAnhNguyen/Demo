@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Github\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\
 QuanLiNhaHang
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\Github\Demo\QuanLiNhaHang\QuanLiNhaHang\App.xaml
-2275488801
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\App.xaml
+31911279290
 
-62027268918
-1941709816142
-Main.xaml;MainWindow.xaml;
+7-738401210
+194237474483
+Main.xaml;MainWindow.xaml;QuanLyNhanVien\EmloyeeView.xaml;
 
-True
+False
 
