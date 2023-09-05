@@ -325,5 +325,135 @@
                 </Style>
             </Button.Style>
         </Button>
+        
+        <!--Nhập input-->
+        <TextBlock Margin="15,88,677,0" Height="72" VerticalAlignment="Top">
+        <Span>Mã nhân viên</Span><Span Foreground="Red">*</Span>
+        </TextBlock>
+        <TextBox x:Name="txtMaNhanVien" 
+                 FontSize="13"                        
+                             Background="Transparent"
+                             FontWeight="Normal"
+                             FontFamily="Montserrat"
+                             CaretBrush="#E285DE"
+                             BorderBrush="#E285DE"
+                             BorderThickness="0,0,0,1"
+
+                 HorizontalAlignment="Left" Height="18" Margin="103,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" KeyUp="txtMaNhanVien_KeyUp" />
+        <TextBox x:Name="txtTenNhanVien" 
+                 Background="Transparent"
+                             FontWeight="Normal"
+                             FontFamily="Montserrat"
+                             CaretBrush="#E285DE"
+                             BorderBrush="#E285DE"
+                             BorderThickness="0,0,0,1"
+                 HorizontalAlignment="Left" Height="18" Margin="103,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" KeyUp="txtTenNhanVien_KeyUp"  />
+
+
+
+        <Label Content="Số điện thoại   " HorizontalAlignment="Left" Margin="10,142,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.528,0.234" Height="26"/>
+        <TextBox x:Name="txtSoDienThoai" 
+                 Background="Transparent"
+                             FontWeight="Normal"
+                             FontFamily="Montserrat"
+                             CaretBrush="#E285DE"
+                             BorderBrush="#E285DE"
+                             BorderThickness="0,0,0,1"
+                 HorizontalAlignment="Left" Margin="103,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" Height="18" KeyUp="txtSoDienThoai_KeyUp"/>
+        <Label Content="Tên tài khoản  " HorizontalAlignment="Left" Margin="10,172,0,0" VerticalAlignment="Top" Height="30" RenderTransformOrigin="0.448,0.465" Width="98" />
+        <TextBox x:Name="txtTenTaiKhoan"
+                 Background="Transparent"
+                             FontWeight="Normal"
+                             FontFamily="Montserrat"
+                             CaretBrush="#E285DE"
+                             BorderBrush="#E285DE"
+                             BorderThickness="0,0,0,1"
+                 HorizontalAlignment="Left" Height="18" Margin="103,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" KeyUp="txtTenTaiKhoan_KeyUp"/>
+        <Label Content="Số CMND  " HorizontalAlignment="Left" Margin="10,224,0,0" VerticalAlignment="Top" Height="30" Width="69"/>
+        <TextBox x:Name="txtSoCMND" 
+                 Background="Transparent"
+                             FontWeight="Normal"
+                             FontFamily="Montserrat"
+                             CaretBrush="#E285DE"
+                             BorderBrush="#E285DE"
+                             BorderThickness="0,0,0,1"
+                 HorizontalAlignment="Left" Height="18" Margin="103,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" KeyUp="txtSoCMND_KeyUp"/>
+        <Label Content="Nơi cấp CMND" HorizontalAlignment="Left" Margin="10,254,0,0" VerticalAlignment="Top" Height="28"/>
+        <TextBox x:Name="txtNoiCapCMND" 
+                 Background="Transparent"
+                             FontWeight="Normal"
+                             FontFamily="Montserrat"
+                             CaretBrush="#E285DE"
+                             BorderBrush="#E285DE"
+                             BorderThickness="0,0,0,1"
+                 HorizontalAlignment="Left" Height="18" Margin="103,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" KeyUp="txtNoiCapCMND_KeyUp"/>
+        <Label Content="Địa chỉ" HorizontalAlignment="Left" Margin="253,144,0,0" VerticalAlignment="Top" Height="26" />
+        <TextBox x:Name="txtDiaChi"
+                 Background="Transparent"
+                             FontWeight="Normal"
+                             FontFamily="Montserrat"
+                             CaretBrush="#E285DE"
+                             BorderBrush="#E285DE"
+                             BorderThickness="0,0,0,1"
+                 HorizontalAlignment="Left" Height="18" Margin="340,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" KeyUp="txtDiaChi_KeyUp"/>
+        <TextBlock Margin="258,176,641,0" VerticalAlignment="Top" Height="26"><Span><Run Text="Mật Khẩu"/></Span><Span Foreground="Red"><Run Text="*"/></Span></TextBlock>
+        <StackPanel Width="201" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="334,180,0,0">
+            <Grid>
+                <PasswordBox x:Name="passwordBox" 
+                             Background="Transparent"
+                             FontWeight="Normal"
+                             FontFamily="Montserrat"
+                             CaretBrush="#E285DE"
+                             BorderBrush="#E285DE"
+                             BorderThickness="0,0,0,1"
+                             Width="140" Height="18" Margin="5,0,5,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                <TextBox x:Name="txtMatKhau" 
+                         Background="Transparent"
+                             FontWeight="Normal"
+                             FontFamily="Montserrat"
+                             CaretBrush="#E285DE"
+                             BorderBrush="#E285DE"
+                             BorderThickness="0,0,0,1"
+                         Visibility="Collapsed" Width="140" Height="18" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5,0,5,0"/>
+            </Grid>
+            <CheckBox Content="Hiển thị mật khẩu" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Width="192"/>
+        </StackPanel>
+
+        <Label Content="Lương" HorizontalAlignment="Left" Margin="255,228,0,0" VerticalAlignment="Top" Height="26" />
+        <!--<TextBox x:Name="txtLuong" HorizontalAlignment="Left" Height="18" Margin="109,273,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140"/>-->
+        <TextBox x:Name="txtLuong"
+                 Background="Transparent"
+                             FontWeight="Normal"
+                             FontFamily="Montserrat"
+                             CaretBrush="#E285DE"
+                             BorderBrush="#E285DE"
+                             BorderThickness="0,0,0,1"
+                 Height="18"  Margin="340,232,0,0" Width="140"  HorizontalAlignment="Left" VerticalAlignment="Top" KeyUp="txtLuong_KeyUp" IsEnabled="true" TextChanged="txtLuong_TextChanged" />
+
+        <TextBlock Margin="15,118,833,0" VerticalAlignment="Top" Height="26"><Span>Tên nhân viên</Span><Span Foreground="Red">*</Span>
+        </TextBlock>
+        <Label Content="Giới tính" HorizontalAlignment="Left" Margin="253,88,0,0" VerticalAlignment="Top" Height="24" Width="83" />
+        <ComboBox x:Name="cmbGioiTinh" HorizontalAlignment="Left" Margin="340,92,0,0" VerticalAlignment="Top" Width="140" Height="20" KeyUp="cmbGioiTinh_KeyUp" />
+        <Label Content="Ngày sinh   " HorizontalAlignment="Left" Margin="253,118,0,0" VerticalAlignment="Top" Height="26"/>
+        <DatePicker x:Name="txtNgaySinh" HorizontalAlignment="Left" Margin="340,122,0,0" VerticalAlignment="Top" Width="140" Height="22" KeyUp="txtNgaySinh_KeyUp"/>
+
+
+        <!--<TextBox x:Name="txtMatKhau" HorizontalAlignment="Left" Height="18" Margin="385,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" KeyUp="txtMatKhau_KeyUp"/>-->
+
+
+
+
+
+
+        <Label Content="Ngày cấp" HorizontalAlignment="Left" Margin="253,0,0,0" VerticalAlignment="Center" Height="26" />
+        <Label Content="Chức vụ         " HorizontalAlignment="Left" Margin="500,88,0,0" VerticalAlignment="Top" Height="26" RenderTransformOrigin="0.467,0.282" />
+        <ComboBox x:Name="cmbTrangThaiLamViec" HorizontalAlignment="Left" Margin="641,92,0,0" VerticalAlignment="Top" Width="140" Height="20">
+        </ComboBox>
+
+
+        <DatePicker x:Name="txtNgayCap" HorizontalAlignment="Left" Margin="340,266,0,0" VerticalAlignment="Top" Width="140" Height="22"/>
+        <Label Content="Ngày làm chính thức" HorizontalAlignment="Left" Margin="500,120,0,0" VerticalAlignment="Top" Height="26"/>
+
+        <DatePicker x:Name="txtNgayLamChinhThuc" HorizontalAlignment="Left" Margin="641,122,0,0" VerticalAlignment="Top" Width="140" Height="22"/>
     </Grid>
 </Window>
