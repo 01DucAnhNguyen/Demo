@@ -42,3 +42,5 @@ C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-wind
 C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.pdb
 C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLiNhaHang.genruntimeconfig.cache
 C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\ref\QuanLiNhaHang.dll
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLyNhanVien\Employee.g.cs
+C:\Users\Admin\Quản lí\Demo\QuanLiNhaHang\QuanLiNhaHang\obj\Debug\net6.0-windows\QuanLyNhanVien\Employee.baml
