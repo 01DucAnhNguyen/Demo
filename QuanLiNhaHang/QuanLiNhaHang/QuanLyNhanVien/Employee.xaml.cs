@@ -251,3 +251,24 @@ namespace Login.Views
                 NapDuLieuTuMayChu();
             }
         }
+ //5.Nút chọn ảnh
+        private void btOpenFile(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "Image files (*.png;*.jpeg)|*.png;*.jpeg|All files (*.*)|*.*";
+
+            if (openFileDialog.ShowDialog() == true)
+            {
+                string imagePath = openFileDialog.FileName;
+                using (FileStream stream = new FileStream(imagePath, FileMode.Open))
+                {
+                    BitmapImage image = new BitmapImage();
+                    image.BeginInit();
+                    image.StreamSource = stream;
+                    image.CacheOption = BitmapCacheOption.OnLoad;
+                    image.EndInit();
+
+                    pictureBoxSource.Source = image;
+                }
+            }
+        }
