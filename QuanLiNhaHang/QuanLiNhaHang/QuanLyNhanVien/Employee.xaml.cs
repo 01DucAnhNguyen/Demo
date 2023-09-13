@@ -272,3 +272,21 @@ namespace Login.Views
                 }
             }
         }
+ //2.Nút cập nhật
+        private void btUpdate_Click(object sender, RoutedEventArgs e)
+        {
+            NapDuLieuTuMayChu();
+            txtSearch.Text = "Tìm theo tên, mã nhân viên...";
+        }
+        private void btSua_Click(object sender, RoutedEventArgs e)
+        {
+            SetButtonsState(true);
+            txtMatKhau.IsEnabled = false;
+            txtMaNhanVien.IsEnabled = false;
+            isNew = false;
+        }
+        //3.Nút hủy
+        private void btHuy_Click(object sender, RoutedEventArgs e)
+        {
+            defaultApp();
+        }  
